@@ -1,0 +1,5 @@
+C:\Users\Петр\Desktop\TestDZ\obj\Debug\net7.0\TestDZ.csproj.AssemblyReference.cache
+C:\Users\Петр\Desktop\TestDZ\obj\Debug\net7.0\TestDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петр\Desktop\TestDZ\obj\Debug\net7.0\TestDZ.AssemblyInfoInputs.cache
+C:\Users\Петр\Desktop\TestDZ\obj\Debug\net7.0\TestDZ.AssemblyInfo.cs
+C:\Users\Петр\Desktop\TestDZ\obj\Debug\net7.0\TestDZ.csproj.CoreCompileInputs.cache
